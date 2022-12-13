@@ -86,7 +86,6 @@
     "react": "^16.7.0",
     "react-addons-pure-render-mixin": "^15.0.2",
     "react-addons-shallow-compare": "^15.1.0",
-    "react-addons-test-utils": "^15.1.0",
     "react-dom": "^16.7.0",
     "react-infinite": "^0.13.0",
     "react-inspector": "^3.0.2",
